@@ -1,6 +1,6 @@
 ---
 permalink: /misc/
-title: Misc
+title: 
 ---
 
 Some fun things not necessarily related to academic research
@@ -17,4 +17,8 @@ At UCLA I wrote for the Daily Bruin school newspaper as an opinion columnist and
 - [California Ballot Proposition System](https://dailybruin.com/2020/10/23/opinion-californias-flawed-ballot-proposition-system-poses-challenges-for-student-voters)
 - [UCLA Student Government](https://dailybruin.com/2020/04/21/usacs-focus-on-election-politics-hurts-the-student-community-it-is-meant-to-serve)
 - [Full Archive](https://dailybruin.com/author/andrew-raychawdhuri)
+
+## Letterboxd
+
+I like to watch movies and log what I watch [here](https://letterboxd.com/andrewraych/)
 
