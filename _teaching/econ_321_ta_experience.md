@@ -4,7 +4,8 @@ collection: teaching
 type: "Economic Statistics"
 permalink: /talks/
 venue: "University of Maryland Department of Economics"
-date: "Spring 2024"
+date: 2024-09-01
+semester: "Fall 2024 and Fall 2025"
 location: 
 ---
 
