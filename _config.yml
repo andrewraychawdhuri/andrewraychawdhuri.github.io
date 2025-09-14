@@ -1,145 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "default"
 title                    : "Andrew Raychawdhuri"
 title_separator          : "-"
 name                     : &name "Andrew Raychawdhuri"
 description              : &description "personal description"
 url                      : https://andrewraychawdhuri.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : "andrewraychawdhuri/andrewraychawdhuri.github.io"
 
-# Site Author
+# Author
 author:
   avatar           : "prof.png"
   name             : "Andrew Raychawdhuri"
-  pronouns         : 
   bio              : ""
   location         : "College Park, MD"
   employer         : "University of Maryland"
-  uri              : 
-  email            : "andrew.raychawdhuri@gmail.com" 
-
-  academia         : 
-  arxiv            : 
-  googlescholar    : 
-  inspire-hep      : 
-  impactstory      : 
-  researchgate     : 
-  scopus           : 
-
-  bitbucket        : 
-  codepen          : 
-  dribbble         : 
+  email            : "andrew.raychawdhuri@gmail.com"
   github           : "andrewraychawdhuri"
-  kaggle           : 
-  stackoverflow    : 
-
-  artstation       : 
-  bluesky          : 
-  facebook         : 
-  flickr           : 
-  foursquare       : 
-  goodreads        : 
-  google_plus      : 
-  keybase          : 
-  instagram        : 
-  lastfm           : 
   linkedin         : andrew-raychawdhuri-3a2318182/
-  mastodon         : 
-  medium           : 
-  pinterest        : 
-  soundcloud       : 
-  steam            : 
-  telegram         : 
-  tumblr           : 
-  twitter          : 
-  vine             : 
-  weibo            : 
-  wikipedia        : 
-  xing             : 
-  youtube          : 
-  zhihu            : 
-
-# Publication Category
-publication_category:
-  books:
-    title: "Books"
-  manuscripts:
-    title: "Journal Articles"    
-  conferences:
-    title: "Conference Papers"
 
 # Site Settings
-teaser                   : 
 breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
-talkmap_link             : false
 comments:
-  provider               : 
-  disqus:
-    shortname            :
-  discourse:
-    server               : 
-  facebook:
-    appid                :
-    num_posts            : 
-    colorscheme          : 
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
+  provider               : false
 atom_feed:
   hide                   : false
-  path                   : 
 
 # SEO Related
 google_site_verification : "paVN48jgehISXflQdzua-zNr12zicUqsHnKdeszLqTM"
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : 
-og_description           : 
-social:
-  type                   : 
-  name                   : 
-  links: 
-
-# Analytics
-analytics:
-  provider               : "false"
-  google:
-    tracking_id          :
 
 # Reading Files
 include:
@@ -147,55 +39,27 @@ include:
   - _pages
   - files
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - local
-  - log
   - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
   - vendor
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
 excerpt_separator: "\n\n"
-incremental: false
 
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
   auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
 # Collections
 collections:
@@ -227,8 +91,6 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5
-# paginate_path: /page:num/
 timezone: Etc/UTC
 
 # Plugins
@@ -240,7 +102,6 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -256,16 +117,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
 # HTML Compression
 compress_html:
