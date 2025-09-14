@@ -10,9 +10,9 @@ title: "First Paper Title"\
 collection: research\
 permalink: /research/first-paper\
 date: 2025-09-01\
+pdf: files/paper1.pdf\
 ---\
 \
 **Abstract:**  \
 This is a short abstract for the first paper.  \
-\
-[Download PDF](files/paper1.pdf)}
+}
