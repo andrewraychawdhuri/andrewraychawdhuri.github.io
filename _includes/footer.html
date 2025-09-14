@@ -7,36 +7,15 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2575.7">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #202126; -webkit-text-stroke: #202126}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #202126; -webkit-text-stroke: #202126; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #18191d; -webkit-text-stroke: #18191d}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #18191d; -webkit-text-stroke: #18191d; min-height: 14.0px}
     span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{% include base_path %}</span></p>
+<p class="p1"><span class="s1">&lt;footer class="site-footer"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;p&gt;© {{ site.time | date: '%Y' }} Andrew Raychawdhuri&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/footer&gt;</span></p>
 <p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}</span></p>
-<p class="p1"><span class="s1">&lt;div class="page__footer-follow"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;ul class="social-icons"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if site.data.ui-text[site.locale].follow_label %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;strong&gt;{{ site.data.ui-text[site.locale].follow_label }}&lt;/strong&gt;&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if site.author.github %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;a href="http://github.com/{{ site.author.github }}"&gt;&lt;i class="fab fa-github" aria-hidden="true"&gt;&lt;/i&gt; GitHub&lt;/a&gt;&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if site.author.bitbucket %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;a href="http://bitbucket.org/{{ site.author.bitbucket }}"&gt;&lt;i class="fab fa-bitbucket" aria-hidden="true"&gt;&lt;/i&gt; Bitbucket&lt;/a&gt;&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if site.atom_feed.hide != true %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;li&gt;&lt;a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"&gt;&lt;i class="fa fa-fw fa-rss-square" aria-hidden="true"&gt;&lt;/i&gt; {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}&lt;/a&gt;&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/ul&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;div class="page__footer-copyright"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&amp;copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} &lt;a href="http://jekyllrb.com" rel="nofollow"&gt;Jekyll&lt;/a&gt; &amp;amp; &lt;a href="https://github.com/academicpages/academicpages.github.io"&gt;AcademicPages&lt;/a&gt;, a fork of &lt;a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow"&gt;Minimal Mistakes&lt;/a&gt;.&lt;br /&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>Site last updated {{ "now" | date: '%Y-%m-%d' }}</span></p>
-<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
 </body>
 </html>
