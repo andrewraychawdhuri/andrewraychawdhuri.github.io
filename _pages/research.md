@@ -3,15 +3,15 @@ permalink: /research/
 title: Research
 ---
 
-# Publications
+## Publications
 
-Coming soon! (Hopefully)
+Coming soon! 
 
-# Working Papers
+## Working Papers
 
 Coming soon!
 
 
-# Work in Progress
+## Work in Progress
 
 Coming soon!
