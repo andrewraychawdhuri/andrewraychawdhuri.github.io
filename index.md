@@ -3,9 +3,6 @@ layout: default
 title: Home
 ---
 
-# Andrew Raychawdhuri
-
-
 Welcome! My name is Andrew and I am currently a second year PhD student in economics at the University of Maryland.  
 
 My fields of research are **industrial organization** and **econometrics**.  
