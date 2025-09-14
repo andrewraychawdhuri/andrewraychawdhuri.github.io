@@ -1,17 +1,9 @@
 ---
 permalink: /research/
-title: Research
+title: "Research"
+layout: collection
+collection: research
+entries_layout: list
 ---
 
-## Publications
-
-Coming soon! 
-
-## Working Papers
-
-Coming soon!
-
-
-## Work in Progress
-
-Coming soon!
+Here you can find my working papers, published articles, and ongoing projects.  
