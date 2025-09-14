@@ -20,5 +20,5 @@ At UCLA I wrote for the Daily Bruin school newspaper as an opinion columnist and
 
 ## Letterboxd
 
-I like to watch movies and log what I watch on Letterboxd so feel free to give me a follow [here](https://letterboxd.com/andrewraych/)
+I like to watch movies and log what I watch on Letterboxd so feel free to check it out  [here!](https://letterboxd.com/andrewraych/)
 
