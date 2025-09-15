@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 logo: prof.png
 
 # Links that appear in the top nav
-show_downloads: false
+show_downloads: true
