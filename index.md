@@ -3,6 +3,17 @@ layout: default
 title: Home
 ---
 
+# Andrew Raychawdhuri
+
+<img src="/assets/img/prof.png" alt="Profile picture" width="200" style="border-radius:50%;">
+
+<div style="margin-top:10px;">
+  <a href="mailto:andrew.raychawdhuri@gmail.com">Email</a> |
+  <a href="/files/cv.pdf">CV</a> |
+  <a href="www.linkedin.com/in/andrew-raychawdhuri-3a2318182">LinkedIn</a> |
+  <a href="https://github.com/andrewraychawdhuri">GitHub</a>
+</div>
+
 Welcome! My name is Andrew and I am currently a second year PhD student in economics at the University of Maryland.  
 
 My fields of research are **industrial organization** and **econometrics**.  
@@ -12,4 +23,5 @@ I earned my BA in economics from UCLA in 2022 and started my PhD in 2024 after w
 I am working on updating this site to include my current research and other projects that I am working on — so bear with me as I continually update this page with more info!
 
 ## Links
-- [Contact](mailto:andrew.raychawdhuri@gmail.com)
+- [Email](mailto:andrew.raychawdhuri@gmail.com)
+- [LinkedIn](www.linkedin.com/in/andrew-raychawdhuri-3a2318182) 
