@@ -3,4 +3,6 @@ description: "Ph.D. Student"
 theme: jekyll-theme-minimal
 
 # Optional: add a logo
-logo: prof.png
+logo: /files/prof.png
+
+show_downloads: false
