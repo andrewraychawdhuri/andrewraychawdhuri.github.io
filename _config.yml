@@ -4,6 +4,3 @@ theme: jekyll-theme-minimal
 
 # Optional: add a logo
 logo: prof.png
-
-# Links that appear in the top nav
-show_downloads: true
