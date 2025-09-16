@@ -18,6 +18,6 @@ I am working on updating this site to include my current research and other proj
 <div align="center">
   <a href="mailto:andrew.raychawdhuri@gmail.com">Email</a> |
   <a href="/files/cv.pdf">CV</a> |
-  <a href="www.linkedin.com/in/andrew-raychawdhuri-3a2318182">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/andrew-raychawdhuri-3a2318182/">LinkedIn</a> |
   <a href="https://github.com/andrewraychawdhuri">GitHub</a>
 </div>
