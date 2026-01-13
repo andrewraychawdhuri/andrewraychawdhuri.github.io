@@ -18,7 +18,7 @@ University of Maryland, Summer 2026
 ## Teaching Assistant
 
 **ECON 306: Intermediate Microeconomic Theory and Policy**  
-University of Maryland, Fall 2025
+University of Maryland, Spring 2026
 
 - *Instructor:* Professor Aaron Finkle
 - *Description:* Analysis of the theories of consumer behavior, producer behavior, different market structures, and various sources of inefficient outcomes. Analysis of microeconomic policies designed to improve market outcomes.

@@ -11,6 +11,6 @@ title: ECON 306 - Summer 2026
 ## Course Information
 
 - *Instructor:* Andrew Raychawdhuri
-- *Email:* andrew.raychawdhuri@gmail.com
+- *Email:* araychaw@umd.edu
 - *Office Hours:* TBA
 - *Location:* TBA
