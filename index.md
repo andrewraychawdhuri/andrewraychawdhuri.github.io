@@ -9,7 +9,7 @@ My fields of research are **industrial organization** and **econometrics**.
 
 I earned my BA in economics from UCLA in 2022 and started my PhD in 2024 after working as a Research Analyst at the Federal Reserve Bank of Dallas for two years.  
 
-I am working on updating this site to include my current research and other projects that I am working on — so bear with me as I continually update this page with more info!
+I am working on updating this site to include my current research and other projects that I am working on, so bear with me as I continually update this page with more info!
 
 
 
