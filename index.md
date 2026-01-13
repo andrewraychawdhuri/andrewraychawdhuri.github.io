@@ -5,7 +5,7 @@ title: Home
 
 Welcome! My name is Andrew and I am currently a second year PhD student in economics at the University of Maryland.  
 
-My fields of research are **industrial organization** and **econometrics**.  
+My fields of research are industrial organization and econometrics. I have specific interest in applications to antitrust economics.
 
 I earned my BA in economics from UCLA in 2022 and started my PhD in 2024 after working as a Research Analyst at the Federal Reserve Bank of Dallas for two years.  
 
