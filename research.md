@@ -5,15 +5,15 @@ title: Research
 
 # Research
 
-## Publications
+### Publications
 
 ---
 
-## Working Papers
+### Working Papers
 
 ---
 
-## Work in Progress
+### Work in Progress
 
 **The Role of Lender Heterogeneity and Machine Learning in Mortgage Lending**
 
