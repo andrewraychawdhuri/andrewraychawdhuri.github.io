@@ -11,7 +11,7 @@ title: Teaching
 University of Maryland, Summer 2026
 
 - *Description:* Analysis of the theories of consumer behavior, producer behavior, different market structures, and various sources of inefficient outcomes. Analysis of microeconomic policies designed to improve market outcomes.
-- *Course Materials:*  [Course Page](/teaching/econ306-summer2026)
+- *Course Materials:*  [Course Materials](/teaching/econ306-summer2026)
 
 ---
 
