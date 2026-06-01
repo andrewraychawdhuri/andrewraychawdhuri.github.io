@@ -10,9 +10,9 @@ title: ECON 306 - Summer 2026
 
 ## Course Information
 
-- *Instructor:* Andrew Raychawdhuri
-- *Email:* araychaw@umd.edu
-- *Syllabus:* [Download PDF](/files/econ306syllabus.pdf)
-- *Worksheet Assignments:* TBA
-- *Quizzes*:* TBA
-- *Exams*:* TBA
+- **Instructor:** Andrew Raychawdhuri
+- **Email:** araychaw@umd.edu
+- **Syllabus:** [Download PDF](/files/econ306syllabus.pdf)
+- **Worksheet Assignments:** TBA
+- **Quizzes**: TBA
+- **Exams**: TBA
